@@ -18,6 +18,7 @@ This project scans all geotagged tweets sent in 2020 to monitor for the spread o
 #covid2019
 #covid-2019
 
+The `viz` folder displays a breakdown of all hashtags analyzed, split by country from where the tweet was posted and the language of the tweet. 
 
 ## Background
 
@@ -28,8 +29,3 @@ MapReduce is a famous procedure for large scale parallel processing that is wide
 It is a 3 step procedure summarized in the following image:
 
 <img src=mapreduce.png width=100% />
-
-
-## Results
-
-The results from the 
